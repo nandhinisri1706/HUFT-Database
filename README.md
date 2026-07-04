@@ -1,4 +1,4 @@
-E-COMMERCE ORDER MANAGEMENT DATABASE SYSTEM – A CASE STUDY OF HEADS UP FOR TAILS
+# E-COMMERCE ORDER MANAGEMENT DATABASE SYSTEM – A CASE STUDY OF HEADS UP FOR TAILS
 
 This project focuses on analyzing and designing an E-Commerce Order Management Database System based on the Heads Up For Tails (HUFT) platform. The objective is to study how customer information, product details, orders, payments, inventory, and delivery records are managed using a Database Management System (DBMS).
 
